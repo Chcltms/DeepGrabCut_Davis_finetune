@@ -1,0 +1,6 @@
+trainBatch:24
+nAveGrad:1
+lr:1e-06
+wd:0.0005
+momentum:0.9
+epoch_size:20
